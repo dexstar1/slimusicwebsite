@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
@@ -432,7 +433,7 @@ h6,
 }
 #menu-5 .navbar-caption {
   color: #ffffff;
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Bitter', serif;
 }
 #menu-5 .navbar-toggler {
   color: #b90736;
@@ -569,6 +570,7 @@ h6,
 #content6-a P {
   font-family: 'Ubuntu', sans-serif;
   font-size: 12px;
+  color: #000000;
 }
 
 

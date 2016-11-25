@@ -75,11 +75,11 @@
             "contentAlign": "center",
             "showTitle": true,
             "showText": false,
-            "showButtons": false
+            "showButtons": true
           },
           "title": "<span style=\"line-height: 1.1;\">WELCOME TO MY WORLD</span><br>",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"profile.html\" data-toolbar=\"-mbrBtnMove\">EXPLORE</a>"
         },
         {
           "_styles": {
@@ -88,8 +88,8 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-family": "'Ubuntu', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
             },
             ".navbar-toggler": {
               "color": "#b90736"
@@ -333,21 +333,22 @@
             "Theme"
           ],
           "_name": "content6",
-          "_anchor": "content6-a",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p>&nbsp; &nbsp; WILLIAMS MICHAEL MAYOMI first caught the eye with the release of his mixtape album titled “sui generis”, though a fledgling in the industry but the rawness in his delivery was all that was needed. His versatility came to bare as he performed wonders with the different genres. A sweet blend of soul, RnB, rap, reggae and afro pop were all on display in the album. He did a cover of Wiz Khalifa’s “black and yellow”, Miguel ft J.Cole - “all i want” etc but it was his version of Far East Movement’s “Rocketeer” that made the most buzz, song he titled “Halo and wings” got so much foreign plaudits from foreign blogs, shout outs from radio stations in Europe and what they all made reference to was his powerful lyrics and content.</p><p><br></p><p>Interpreting his thoughts and emotions in writing has always been his strong point since his secondary school days. Hundreds of poems and he even wrote a book he titled “Aspiration that triggers Ambition”, an inspirational master piece. He identified his strength early, blessed with a good voice, a listening ear, he is an avid song writer he decided to carve a niche for himself in the music industry.</p><p><br></p><p>Williams Michael Mayomi was born and bred in Lagos, to Adeshina and Olayemi Williams. The father was a juju artist, a song writer and he is also a very close friend of the Legendary King Sunny Ade. He is an alumnus of Olabisi Onabanjo University after graduating with an LLB honors degree in Law. He was called to the bar in 2013 after graduating from the prestigious Augustine Nnamani Campus, Enugu.&nbsp;</p><p><br></p><p>Tempted by the acceptance his music was getting, he was tempted to forego his law degree for music fully but he had to cave in to pressure not to.</p><p><br></p><p>In 2007 he participated in Star Quest and that was the beginning of many more talent auditions. Since 2007 he has been to several editions of Star Quest, Peak talent show, glo naija sings, mtn project fame etc, though didn’t gain recognition, his determination to excel in what he enjoys doing and prodding from friends caused him to release his first singles. In 2012 he released a compilation of some of his recordings as a mixtape titled “sui generis”. That same year he released his first dance track “Fibadi jo” a hit produced by drum dealer a song that rocked the air waves all year. Law school made him turned down so many deals that year but he was still able to write a theme song for two movies from Law school.&nbsp;</p><p><br></p><p>In 2013 he got called to the bar, after which he served his dear country for a year. Law school and NYSC couldn’t stop him; he has to remain relevant so he jumped on one cover after another. A cover of Beyonce’s drunk in love titled “who needs love”ft Kaystar not only blew minds but it prepared the way for the songs that brought him to the fore, Sam smith’s “Stay with me” and I’m not the only one”. Unlike other covers of the same songs, he owned the songs by stamping his style on the songs. The Headline and the Reviews called him the next big thing but just like every upcoming artiste, he still had to work to fund his music. He worked with MJS partners for a year as a Legal Counsel before joining Adron Homes and Properties, Real Estate giant. He joined as an Estate Manager before working his way up the ladder within one year. He became the Human Resource Manager/Legal/Admin Manager before he was made the personal assistant to the CEO of the company all within a year...... talking about having a midas touch.&nbsp;</p><p>“It is rare to see someone who does so many things at the same time and does it so well, and NO! He’s not a dilettante ……..” those were the words of his old boss when asked about WILLIAMS MICHAEL MAYOMI.&nbsp;</p><p><br></p><p>How else do you make a comeback from the musical wilderness than releasing a mind blowing song titlled “MEAN THE WORLD” and this song is widely considered as his best song yet. A cover of Tyrese Gibson’s “Lately” was the perfect song he used to cushion his way back into the hearts of his fans especially those getting married because it became a new number one at wedding receptions. Tired of being tagged the King of covers and armed with all the knowledge to thrive in a demanding music industry, SLIMUSIC is not only fully back but rearing to go. The question is ARE YOU READY?</p><p><br></p><p>Slimusic describes his style of music as \"ALL IN ONE” music. Unlike popular believe, he said music should be free. “A genre is like a language, why communicate with just one race, when you can be more universal”. He has proven overtime that he can swap genres with ease, proof that his versatility is a rare gift. Though he loves his Soul, RnB and hip hop more but as a bred of both worlds he grew up listening to King Sunny Ade, Bob Marley, Lauryn Hill, Fela Anikulapo Kuti, R.kelly, King Wasiu Ayinde , Joe Thomas, Donell Jones, Nas, Tupac, Boys 2 Men, Notorious Big etc strange combo but he was able to pick his style from legends to create a blend that matches modern request. He currently listens to Maxwell, M.I, Lemar, Vector, J.cole, Asa, Brymo, the weekend, Simi, Niniola etc.</p><p><br></p><p>Failure inspires me to do better, just like Aaliyah said”Dust yourself and try again” and an anonymous saying that I love so much “A winner is an ex loser who has the brain to try gain.</p><p>I welcome you to the World of Slimusic</p>",
-          "text2": "<p><a href=\"#\"><iframe src=\"https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FSlimusic-290342264700411&amp;tabs=timeline&amp;width=340&amp;height=500&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=true&amp;appId=619099964915404\" width=\"340\" height=\"500\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowtransparency=\"true\"></iframe></a></p><p><br><a href=\"#\"></a></p>",
           "_styles": {
             "P": {
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
-              "font-size": "12px"
+              "font-size": "12px",
+              "color": "#000000"
             }
-          }
+          },
+          "_anchor": "content6-a",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#efefef"
+          },
+          "text1": "<p>&nbsp; &nbsp; WILLIAMS MICHAEL MAYOMI first caught the eye with the release of his mixtape album titled “sui generis”, though a fledgling in the industry but the rawness in his delivery was all that was needed. His versatility came to bare as he performed wonders with the different genres. A sweet blend of soul, RnB, rap, reggae and afro pop were all on display in the album. He did a cover of Wiz Khalifa’s “black and yellow”, Miguel ft J.Cole - “all i want” etc but it was his version of Far East Movement’s “Rocketeer” that made the most buzz, song he titled “Halo and wings” got so much foreign plaudits from foreign blogs, shout outs from radio stations in Europe and what they all made reference to was his powerful lyrics and content.</p><p><br></p><p>Interpreting his thoughts and emotions in writing has always been his strong point since his secondary school days. Hundreds of poems and he even wrote a book he titled “Aspiration that triggers Ambition”, an inspirational master piece. He identified his strength early, blessed with a good voice, a listening ear, he is an avid song writer he decided to carve a niche for himself in the music industry.</p><p><br></p><p>Williams Michael Mayomi was born and bred in Lagos, to Adeshina and Olayemi Williams. The father was a juju artist, a song writer and he is also a very close friend of the Legendary King Sunny Ade. He is an alumnus of Olabisi Onabanjo University after graduating with an LLB honors degree in Law. He was called to the bar in 2013 after graduating from the prestigious Augustine Nnamani Campus, Enugu.&nbsp;</p><p><br></p><p>Tempted by the acceptance his music was getting, he was tempted to forego his law degree for music fully but he had to cave in to pressure not to.</p><p><br></p><p>In 2007 he participated in Star Quest and that was the beginning of many more talent auditions. Since 2007 he has been to several editions of Star Quest, Peak talent show, glo naija sings, mtn project fame etc, though didn’t gain recognition, his determination to excel in what he enjoys doing and prodding from friends caused him to release his first singles. In 2012 he released a compilation of some of his recordings as a mixtape titled “sui generis”. That same year he released his first dance track “Fibadi jo” a hit produced by drum dealer a song that rocked the air waves all year. Law school made him turned down so many deals that year but he was still able to write a theme song for two movies from Law school.&nbsp;</p><p><br></p><p>In 2013 he got called to the bar, after which he served his dear country for a year. Law school and NYSC couldn’t stop him; he has to remain relevant so he jumped on one cover after another. A cover of Beyonce’s drunk in love titled “who needs love”ft Kaystar not only blew minds but it prepared the way for the songs that brought him to the fore, Sam smith’s “Stay with me” and I’m not the only one”. Unlike other covers of the same songs, he owned the songs by stamping his style on the songs. The Headline and the Reviews called him the next big thing but just like every upcoming artiste, he still had to work to fund his music. He worked with MJS partners for a year as a Legal Counsel before joining Adron Homes and Properties, Real Estate giant. He joined as an Estate Manager before working his way up the ladder within one year. He became the Human Resource Manager/Legal/Admin Manager before he was made the personal assistant to the CEO of the company all within a year...... talking about having a midas touch.&nbsp;</p><p>“It is rare to see someone who does so many things at the same time and does it so well, and NO! He’s not a dilettante ……..” those were the words of his old boss when asked about WILLIAMS MICHAEL MAYOMI.&nbsp;</p><p><br></p><p>How else do you make a comeback from the musical wilderness than releasing a mind blowing song titlled “MEAN THE WORLD” and this song is widely considered as his best song yet. A cover of Tyrese Gibson’s “Lately” was the perfect song he used to cushion his way back into the hearts of his fans especially those getting married because it became a new number one at wedding receptions. Tired of being tagged the King of covers and armed with all the knowledge to thrive in a demanding music industry, SLIMUSIC is not only fully back but rearing to go. The question is ARE YOU READY?</p><p><br></p><p>Slimusic describes his style of music as \"ALL IN ONE” music. Unlike popular believe, he said music should be free. “A genre is like a language, why communicate with just one race, when you can be more universal”. He has proven overtime that he can swap genres with ease, proof that his versatility is a rare gift. Though he loves his Soul, RnB and hip hop more but as a bred of both worlds he grew up listening to King Sunny Ade, Bob Marley, Lauryn Hill, Fela Anikulapo Kuti, R.kelly, King Wasiu Ayinde , Joe Thomas, Donell Jones, Nas, Tupac, Boys 2 Men, Notorious Big etc strange combo but he was able to pick his style from legends to create a blend that matches modern request. He currently listens to Maxwell, M.I, Lemar, Vector, J.cole, Asa, Brymo, the weekend, Simi, Niniola etc.</p><p><br></p><p>Failure inspires me to do better, just like Aaliyah said”Dust yourself and try again” and an anonymous saying that I love so much “A winner is an ex loser who has the brain to try gain.</p><p>I welcome you to the World of Slimusic</p><p><br></p><p><br></p>",
+          "text2": "<p><a href=\"#\"><iframe src=\"https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FSlimusic-290342264700411&amp;tabs=timeline&amp;width=340&amp;height=500&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=true&amp;appId=619099964915404\" width=\"340\" height=\"500\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowtransparency=\"true\"></iframe></a></p><p><a href=\"#\"></a></p>"
         }
       ]
     },
@@ -500,7 +501,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.8",
+            "overlayOpacity": "0.5",
             "overlayColor": "#222",
             "showTitle": true,
             "showText": false,
@@ -514,71 +515,58 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "content6",
-          "_anchor": "content6-i",
+          "_name": "content7",
+          "_anchor": "content7-a",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgColor": "#000000"
+          },
+          "text1": "<p><a href=\"#\"><iframe width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/190922310&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true\"></iframe></a></p>",
+          "text2": "<p><a href=\"#\"><iframe width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/183891892&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true\"></iframe></a></p>",
+          "text3": "<p><a href=\"#\"><iframe width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/196152616&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true\"></iframe></a></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-b",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#000000"
           },
-          "text1": "<p><a href=\"#\"><iframe width=\"100%\" height=\"500\" scrolling=\"no\" frameborder=\"no\" src=\"https://www.reverbnation.com/widget_code/html_widget/artist_1266427?widget_id=55&amp;pwc[song_ids]=22944134&amp;context_type=song\" style=\"width:0px;min-width:100%;max-width:100%;\"></iframe></a></p>",
-          "text2": "<p><a href=\"#\"><iframe width=\"100%\" height=\"500\" scrolling=\"no\" frameborder=\"no\" src=\"https://www.reverbnation.com/widget_code/html_widget/artist_1266427?widget_id=55&amp;pwc[song_ids]=22573833&amp;context_type=song\" style=\"width:0px;min-width:100%;max-width:100%;\"></iframe></a></p>"
+          "text1": "<p><a href=\"#\"><iframe width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/196153359&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true\"></iframe></a></p>",
+          "text2": "<p><a href=\"#\"><iframe width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/183891644&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true\"></iframe></a></p>",
+          "text3": "<p><a href=\"#\"><iframe width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/45609703&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true\"></iframe></a></p>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content6",
-          "_anchor": "content6-l",
+          "_anchor": "content6-c",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#000000"
           },
-          "text1": "<p><a href=\"#\"><iframe width=\"100%\" height=\"500\" scrolling=\"no\" frameborder=\"no\" src=\"https://www.reverbnation.com/widget_code/html_widget/artist_1266427?widget_id=55&amp;pwc[song_ids]=23121133&amp;context_type=song\" style=\"width:0px;min-width:100%;max-width:100%;\"></iframe></a></p>",
-          "text2": "<p><a href=\"#\"><iframe width=\"100%\" height=\"500\" scrolling=\"no\" frameborder=\"no\" src=\"https://www.reverbnation.com/widget_code/html_widget/artist_1266427?widget_id=55&amp;pwc[song_ids]=23155056&amp;context_type=song\" style=\"width:0px;min-width:100%;max-width:100%;\"></iframe></a></p>"
+          "text1": "<p><a href=\"#\"><iframe width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/45608843&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true\"></iframe></a></p>",
+          "text2": "<p><a href=\"#\"><iframe width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/45607677&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true\"></iframe></a></p>"
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "content6",
-          "_anchor": "content6-m",
+          "_name": "content1",
+          "_anchor": "content1-d",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
+            "paddingBottom": "2",
+            "bgColor": "#000000"
           },
-          "text1": "<p><a href=\"#\"><iframe width=\"100%\" height=\"500\" scrolling=\"no\" frameborder=\"no\" src=\"https://www.reverbnation.com/widget_code/html_widget/artist_1266427?widget_id=55&amp;pwc[song_ids]=22573849&amp;context_type=song\" style=\"width:0px;min-width:100%;max-width:100%;\"></iframe></a></p>",
-          "text2": "<p><a href=\"#\"><iframe width=\"100%\" height=\"500\" scrolling=\"no\" frameborder=\"no\" src=\"https://www.reverbnation.com/widget_code/html_widget/artist_1266427?widget_id=55&amp;pwc[song_ids]=22573950&amp;context_type=song\" style=\"width:0px;min-width:100%;max-width:100%;\"></iframe></a></p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-n",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p><a href=\"#\"><iframe width=\"100%\" height=\"500\" scrolling=\"no\" frameborder=\"no\" src=\"https://www.reverbnation.com/widget_code/html_widget/artist_1266427?widget_id=55&amp;pwc[song_ids]=13159840&amp;context_type=song\" style=\"width:0px;min-width:100%;max-width:100%;\"></iframe></a></p>",
-          "text2": "<p><a href=\"#\"><iframe width=\"100%\" height=\"500\" scrolling=\"no\" frameborder=\"no\" src=\"https://www.reverbnation.com/widget_code/html_widget/artist_1266427?widget_id=55&amp;pwc[song_ids]=9206212&amp;context_type=song\" style=\"width:0px;min-width:100%;max-width:100%;\"></iframe></a></p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-o",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p><a href=\"#\"><iframe width=\"100%\" height=\"500\" scrolling=\"no\" frameborder=\"no\" src=\"https://www.reverbnation.com/widget_code/html_widget/artist_1266427?widget_id=55&amp;pwc[song_ids]=9592530&amp;context_type=song\" style=\"width:0px;min-width:100%;max-width:100%;\"></iframe></a></p>",
-          "text2": ""
+          "text": "<p><a href=\"#\"><iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https://www.reverbnation.com/widget_code/html_widget/artist_1266427?widget_id=55&amp;pwc[song_ids]=22573950&amp;context_type=song&amp;spoid=artist_1742665&amp;pwc[size]=small\" style=\"width:0px;min-width:100%;max-width:100%;\"></iframe></a></p>"
         }
       ]
     },
@@ -786,7 +774,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://www.youtube.com/watch?v=WsEwbT6oV8o",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -1055,6 +1043,16 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/img-0239-2000x1333-94-2000x1333-94.jpg",
+                "image": "assets/images/img-0239-2000x1333-94.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "assets/images/imag0986-2000x3547-18-2000x3547-25.jpg",
                 "image": "assets/images/imag0986-2000x3547-18.jpg",
                 "caption": "Type caption here",
@@ -1075,8 +1073,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "assets/images/img-0239-2000x1333-94-2000x1333-94.jpg",
-                "image": "assets/images/img-0239-2000x1333-94.jpg",
+                "thumb": "assets/images/slimusicghg-2000x2000-95-2000x2000-58.jpg",
+                "image": "assets/images/slimusicghg-2000x2000-95.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1085,8 +1083,48 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "assets/images/slimusicghg-2000x2000-95-2000x2000-58.jpg",
-                "image": "assets/images/slimusicghg-2000x2000-95.jpg",
+                "thumb": "assets/images/whatsapp-image-2016-11-22-at-7-2000x1983-72-2000x1983-46.png",
+                "image": "assets/images/whatsapp-image-2016-11-22-at-7-2000x1983-72.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/whatsapp-image-2016-11-22-at-8-2000x2000-6-2000x2000-41.png",
+                "image": "assets/images/whatsapp-image-2016-11-22-at-8-2000x2000-6.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/whatsapp-image-2016-11-23-at-7-2000x1686-58-2000x1686-42.png",
+                "image": "assets/images/whatsapp-image-2016-11-23-at-7-2000x1686-58.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/whatsapp-image-2016-11-23-at-7-2000x2047-52-2000x2047-1.png",
+                "image": "assets/images/whatsapp-image-2016-11-23-at-7-2000x2047-52.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "assets/images/whatsapp-image-2016-11-23-at-7-2000x1705-80-2000x1705-53.png",
+                "image": "assets/images/whatsapp-image-2016-11-23-at-7-2000x1705-80.png",
                 "caption": "Type caption here",
                 "active": true
               }
