@@ -24,7 +24,7 @@
       }
     },
     "publishType": "local",
-    "publishPath": "file:///C:/Users/User/Documents/slimusic"
+    "publishPath": "file:///C:/Users/User/Documents/GitHub/slimusicwebsite"
   },
   "pages": {
     "index.html": {
