@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
@@ -424,7 +423,7 @@ h6,
   font-size: 48px;
 }
 #header1-1 .mbr-section-title SPAN {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Ubuntu', sans-serif;
   font-size: 30px;
   text-align: left;
 }
@@ -499,7 +498,7 @@ h6,
   color: #fff;
 }
 #msg-box8-d .mbr-section-title {
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Ubuntu', sans-serif;
   text-align: left;
   font-size: 46px;
   color: #b8312f;
@@ -567,10 +566,13 @@ h6,
 #ext_menu-c .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#content6-a P {
+#header1-9 .mbr-section-lead {
+  font-size: 15px;
+  text-align: left;
   font-family: 'Ubuntu', sans-serif;
-  font-size: 12px;
-  color: #000000;
+}
+#content1-e P {
+  text-align: center;
 }
 
 
@@ -646,7 +648,7 @@ h6,
   text-align: right;
   font-size: 46px;
   color: #b8312f;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 
@@ -722,10 +724,10 @@ h6,
 #msg-box8-r .mbr-section-title {
   font-size: 46px;
   color: #b8312f;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Ubuntu', sans-serif;
 }
 #header6-s .mbr-section-title {
-  color: #28262b;
+  color: #ffffff;
 }
 #header6-s .mbr-section-text {
   color: #565656;
@@ -743,7 +745,7 @@ h6,
 }
 #msg-box8-w .mbr-section-title {
   text-align: left;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Ubuntu', sans-serif;
   color: #b8312f;
 }
 #ext_menu-t .hide-buttons .nav-btn {
@@ -885,7 +887,7 @@ h6,
   text-align: right;
   color: #b90736;
   font-size: 46px;
-  font-family: 'Indie Flower', cursive;
+  font-family: 'Ubuntu', sans-serif;
 }
 #form1-10 .form-control-label {
   color: #b90736;
@@ -895,4 +897,67 @@ h6,
 }
 #form1-10 .btn {
   font-family: 'Ubuntu', sans-serif;
+}
+
+#menu-c .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-c .navbar-caption {
+  color: #ffffff;
+  font-family: 'Bitter', serif;
+}
+#menu-c .navbar-toggler {
+  color: #b90736;
+}
+#menu-c .close-icon::before,
+#menu-c .close-icon::after {
+  background-color: #b90736;
+}
+#menu-c .link,
+#menu-c .dropdown-item {
+  color: #b90736;
+}
+#menu-c .link {
+  font-size: 0.75rem;
+}
+#menu-c .dropdown-item,
+#menu-c .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-c .link:hover,
+#menu-c .dropdown-item:hover,
+#menu-c .link:focus,
+#menu-c .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-c .link[aria-expanded="true"],
+#menu-c .dropdown-menu {
+  background: #000000;
+}
+#menu-c .nav-dropdown-sm .link:focus,
+#menu-c .nav-dropdown-sm .link:hover,
+#menu-c .nav-dropdown-sm .dropdown-item:focus,
+#menu-c .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#menu-c .navbar,
+#menu-c .nav-dropdown-sm,
+#menu-c .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-c .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#menu-c .bg-color.transparent .link {
+  color: #b90736;
+  transition: none;
+}
+#menu-c .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-c .bg-color.transparent.opened .link:hover,
+#menu-c .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-c .link[aria-expanded="true"],
+#menu-c .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
 }

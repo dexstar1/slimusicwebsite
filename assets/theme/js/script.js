@@ -142,18 +142,34 @@
 
 
         // .mbr-parallax-background
-        if ($.fn.jarallax && !$.isMobile()){
-            $(document).on('destroy.parallax', function(event){
+        if ($.fn.jarallax && !$.isMobile()) {
+            $(document).on('destroy.parallax', function(event) {
                 $(event.target).outerFind('.mbr-parallax-background')
                     .jarallax('destroy')
                     .css('position', '');
             });
-            $(document).on('add.cards change.cards', function(event){
+            $(document).on('add.cards change.cards', function(event) {
                 $(event.target).outerFind('.mbr-parallax-background')
                     .jarallax({
                         speed: 0.6
                     })
                     .css('position', 'relative');
+            });
+
+            if ($('html').hasClass('is-builder')) {
+                $(document).on('add.cards', function(event) {
+                    setTimeout(function() {
+                        $(window).trigger('update.parallax');
+                    }, 0);
+                });
+            }
+
+            $(window).on('update.parallax', function(event) {
+                var $jarallax = $('.mbr-parallax-background');
+
+                $jarallax.jarallax('coverImage');
+                $jarallax.jarallax('clipContainer');
+                $jarallax.jarallax('onScroll');
             });
         }
 
@@ -380,8 +396,8 @@
             } else if ($('input[name=animation]').length) {
                 $('input[name=animation]').remove();
 
-                var $animatedElements = $('p, h1, h2, h3, h4, h5, a, button, small, img, li, blockquote, .mbr-author-name, em, label, input, textarea, .input-group, .iconbox, .btn-social, .mbr-figure, .mbr-gallery, .mbr-slider, .mbr-map, .mbr-testimonial .card-block, .mbr-price-value, .mbr-price-figure, .dataTable, .dataTables_info').not(function() {
-                    return $(this).parents().is('.navbar, .mbr-arrow, footer, .iconbox, .mbr-slider, .mbr-gallery, .mbr-testimonial .card-block, #cookiesdirective, .mbr-wowslider, .accordion, .tab-content, .engine');
+                var $animatedElements = $('p, h1, h2, h3, h4, h5, a, button, small, img, li, blockquote, .mbr-author-name, em, label, input, textarea, .input-group, .iconbox, .btn-social, .mbr-figure, .mbr-map, .mbr-testimonial .card-block, .mbr-price-value, .mbr-price-figure, .dataTable, .dataTables_info').not(function() {
+                    return $(this).parents().is('.navbar, .mbr-arrow, footer, .iconbox, .mbr-slider, .mbr-gallery, .mbr-testimonial .card-block, #cookiesdirective, .mbr-wowslider, .accordion, .tab-content, .engine, .extFooter1, #scrollToTop');
                 }).addClass('hidden animated');
 
                 function getElementOffset(element) {
@@ -457,10 +473,15 @@
     }
     });
 
-    //Fix menu for the Opera Mini
-    var isOperaMini = (navigator.userAgent.indexOf('Opera Mini') > -1);
-    if(isOperaMini){
-        $('.hamburger-icon').css({'width':'30px', 'height':'3px', 'background-color':'#ffffff', 'box-shadow':'none', 'position':'relative'}).addClass('hamburger-om');
+    //Fix menu for Mobile Phones 
+    
+    var agentIndex = function(name) {
+        return this.navigator.userAgent.indexOf(name);
+    };
+    var isMobile = (agentIndex('Mobile') != -1 || ((agentIndex('Android') != -1) && (agentIndex('Browser') != -1)));
+      if(isMobile){
+        $('.hamburger-icon').css({'width':'30px', 'height':'3px', 'background-color':'#fff', 'box-shadow':'none', 'position':'relative'}).addClass('hamburger-om');
+        $('.mbr-arrow img').css({'top':'20px', 'right':'13px'});
     }
 
 })(jQuery);
@@ -472,7 +493,7 @@
         var e = document.createElement("section");
         e.id = "top-1";
         e.className = "engine";
-        e.innerHTML = '<a href="https://mobirise.com">mobirise.com</a> Mobirise v3.8.4';
+        e.innerHTML = '<a href="https://mobirise.com">mobirise.com</a> Mobirise v3.10.2';
         document.body.insertBefore(e, document.body.childNodes[0]);
     }
 }();
